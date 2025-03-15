@@ -1,0 +1,42 @@
+.note{
+    max-width: 1200px;
+    margin: auto;
+    padding: 10p;
+}
+
+
+
+#titletext{
+    margin: 10px 0px 20px 0px;
+    width: 95%;
+    border-radius: 10px;
+    padding: 15px;
+    border-color: grey;
+}
+#titletext:hover{
+    border: 8px solid  #00FFFF ;
+  
+}
+#titlearea{
+    margin: 10px 0px 10px 0px;
+    width: 95%;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 15px;
+}
+#titlearea:hover{
+    border: 8px solid  #00FFFF ;
+   
+}
+.submit-button{
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    font-size: large;
+    padding: 15px;
+    border: none;
+}
+#color{
+    margin: 10px 0px 10px 0px;
+}
