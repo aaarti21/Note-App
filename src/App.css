@@ -1,0 +1,23 @@
+.main-container {
+  max-width: 1200px;
+  margin: auto;
+}
+.main-container-black {
+  background-color: black;
+  color: white; 
+}
+.cart-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding-bottom: 20px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
